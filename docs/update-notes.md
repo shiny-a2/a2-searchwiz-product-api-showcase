@@ -1,5 +1,11 @@
 # Public Update Notes
 
+## 2026-06-08 — Phase 3
+
+- Added sanitized PHP samples for product snapshot DTO shaping, request access policy, and snapshot job state.
+- Kept samples fictional and omitted real endpoints, provider rules, product identifiers, catalog payloads, and production implementation details.
+- Updated the sample-code overview to clarify what the snippets demonstrate and what is intentionally excluded.
+
 ## 2026-06-08 — Phase 2
 
 - Expanded the showcase from a skeleton into an employer-friendly case study.

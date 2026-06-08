@@ -1,8 +1,8 @@
 # Sample Code
 
-This directory is reserved for Phase 3 public-safe snippets. The samples will demonstrate snapshot API workflow-control approach without mirroring production source code.
+This directory contains Phase 3 public-safe snippets. The samples demonstrate snapshot API workflow-control approach without mirroring production source code.
 
-## Planned Samples
+## Published Samples
 
 - `php/product-snapshot-dto.php` — generic product document shaping for feed/search consumers.
 - `php/request-access-policy.php` — simplified request boundary checks without real endpoints or allowlist values.
@@ -18,4 +18,4 @@ This directory is reserved for Phase 3 public-safe snippets. The samples will de
 
 ## Status
 
-Phase 3 is planned. These samples will be intentionally simplified and should be read as review samples, not as production API code.
+Phase 3 is active with three short PHP snippets. These files are intentionally simplified and should be read as review samples, not as production API code.
