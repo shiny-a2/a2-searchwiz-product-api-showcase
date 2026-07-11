@@ -1,5 +1,10 @@
 # Public Update Notes
 
+## 2026-07-12 — Operational Recovery Hardening
+
+- Documented a private maintenance update that improves recovery when snapshot storage or scheduled rebuild state drifts from the expected runtime state.
+- Kept the public note limited to operational resilience and omitted live endpoints, access lists, logs, catalog data, and implementation internals.
+
 ## 2026-06-08 — Phase 3
 
 - Added sanitized PHP samples for product snapshot DTO shaping, request access policy, and snapshot job state.
