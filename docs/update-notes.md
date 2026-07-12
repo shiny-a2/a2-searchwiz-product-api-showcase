@@ -5,6 +5,11 @@
 - Documented a private maintenance update that improves recovery when snapshot storage or scheduled rebuild state drifts from the expected runtime state.
 - Kept the public note limited to operational resilience and omitted live endpoints, access lists, logs, catalog data, and implementation internals.
 
+## 2026-07-12 — Feed Compatibility Alias
+
+- Documented a private compatibility update that keeps the existing product-feed route while adding a provider-documentation-compatible alias.
+- Kept endpoint names, access rules, and live payload details out of the public showcase.
+
 ## 2026-06-08 — Phase 3
 
 - Added sanitized PHP samples for product snapshot DTO shaping, request access policy, and snapshot job state.
