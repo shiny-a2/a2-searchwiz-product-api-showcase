@@ -1,5 +1,10 @@
 # Public Update Notes
 
+## 2026-10-15 — Product Detail ID Compatibility
+
+- Updated the authorized product-detail API to accept the same catalog reference published in the feed, including alphanumeric references.
+- Kept unpublished products out of detail responses and avoided exposing live endpoints or catalog data in this showcase.
+
 ## 2026-07-12 — Operational Recovery Hardening
 
 - Documented a private maintenance update that improves recovery when snapshot storage or scheduled rebuild state drifts from the expected runtime state.
